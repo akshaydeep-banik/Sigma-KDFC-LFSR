@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Aug  9 23:53:37 2020
+# Process ID: 18636
+# Current directory: E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.runs/impl_1
+# Command line: vivado.exe -log ConfrigurationMatrix.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ConfrigurationMatrix.tcl -notrace
+# Log file: E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.runs/impl_1/ConfrigurationMatrix.vdi
+# Journal file: E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ConfrigurationMatrix.tcl -notrace

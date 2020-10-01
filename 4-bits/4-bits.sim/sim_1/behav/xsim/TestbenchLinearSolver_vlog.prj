@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../4-bits.srcs/sources_1/new/CompanionMatrix.v" \
+"../../../../4-bits.srcs/sources_1/new/LinearSolver.v" \
+"../../../../4-bits.srcs/sources_1/new/MatrixPowers.v" \
+"../../../../4-bits.srcs/sources_1/new/Step1.v" \
+"../../../../4-bits.srcs/sources_1/new/Step2.v" \
+"../../../../4-bits.srcs/sources_1/new/Step3.v" \
+"../../../../4-bits.srcs/sources_1/new/VectorXMatrix.v" \
+"../../../../4-bits.srcs/sim_1/new/TestbenchLinearSolver.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

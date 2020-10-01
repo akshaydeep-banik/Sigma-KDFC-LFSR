@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/CompanionMatrix.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CompanionMatrix
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/LinearSolver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LinearSolver
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/MatrixPowers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MatrixPowers
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/Step1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Step1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/Step2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Step2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/Step3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Step3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sources_1/new/VectorXMatrix.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VectorXMatrix
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/8-IITG Summer Internship/3-Verilog Files/4-bits/4-bits.srcs/sim_1/new/TestbenchGeneral.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestbenchGeneral
