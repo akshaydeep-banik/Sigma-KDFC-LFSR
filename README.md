@@ -7,4 +7,4 @@ This repository contains the evaluation of a method for using **σ-LFSRs with ke
 * Software evaluation of the algorithms using MATLAB.
 * Hardware implementation of the algorithms on Xilinx FPGA using Verilog HDL.
 
-Use Xilinx Vivado 2020.1 for opening this file. Unzip the repository and open the projects. That's it.
+Use Xilinx Vivado 2020.1 for opening this files. Unzip the repository and open the projects. That's it!
